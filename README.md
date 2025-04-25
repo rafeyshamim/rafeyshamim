@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafeyshamim
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 2D Games (Retro Design)
 - 📫 DM me on Insta my username is @rafeyshamim 
 - ⚡ Fun fact: Unintentional Creative Multitasker I Am.  
